@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: TestAPIDemo
+  title: MDFQSPDemo
   version: v1
 servers:
  -
@@ -103,7 +103,7 @@ x-wso2-sandbox-endpoints:
   urls:
    - https://gorest.co.in/public/v1
   type: http
-x-wso2-basePath: /testapidemo/v1
+x-wso2-basePath: /mdfqspdemo/v1
 x-wso2-transports:
  - http
  - https
